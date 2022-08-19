@@ -12,6 +12,7 @@
   .header {
     color: white;
   }
+
   .top-nav {
     display: flex;
     width: 100%;
@@ -19,12 +20,14 @@
     background-color: #3c3a39;
     padding: 1em;
   }
+
   .top-nav p {
-    font-family: "Roboto", inherit;
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
   }
+
   .introduction {
     color: #ff6b00;
     padding-top: 120px;
@@ -38,6 +41,7 @@
     line-height: 64px;
     letter-spacing: 0.37px;
   }
+
   .profession {
     color: #fff5e1;
     font-family: "Roboto", Arial, Helvetica, sans-serif;
@@ -51,8 +55,7 @@
 
   .content {
     color: #ffffff;
-    margin-left: 10px;
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
