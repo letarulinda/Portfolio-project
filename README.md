@@ -2,49 +2,38 @@
 
 # Project Name
 
-> Description the project.
-
+> A project on portfolio Mobile Version.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+-Its essential to have a working operating system either Mac OS ,Windows or Linux.
+
 ### Setup
+
+-Create a Folder or directory on your local computer in which you would like to copy the project.
 
 ### Install
 
+Open your terminal and change your directory to the above created directory
+Type git clone git@github.com:letarulinda/mobile-vesrion-setup.git and hit enter-Navigate to create mobile-version-setup folder and open index.html file
+
 ### Usage
 
-### Run tests
+-You can now view the HTML document in your preferred browser.
 
-### Deployment
+## Author Letaru Linda Masia
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+-GitHub: https://github.com/letarulinda
+-LinkedIn: www.linkedin.com/in/linda-letaru-masia-7b48a9175
 
 👤 **Author2**
 
@@ -56,20 +45,6 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
