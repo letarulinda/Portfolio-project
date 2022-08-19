@@ -6,7 +6,7 @@
 
 @media screen and (max-width: 768px) {
   body {
-    background: #1c1a19;
+    font-family: "Inter", sans-serif;
   }
 
   .logo {
@@ -79,15 +79,22 @@
   }
 
   .background-one {
+    background-color: #1c1a19;
     display: flex;
     justify-content: end;
-    background-image: url(./Assets/Group.svg);
+    background-image: url(./Assets/illustration-header-mobile.svg);
     background-repeat: no-repeat;
     height: 590px;
-    background-position-x: right;
-    background-position-y: bottom;
-    background-size: 313px;
+    background-position-x: 90%;
+    background-position-y: 99%;
+    background-size: 139px;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 120px 24px;
+    gap: 12px;
   }
+
   .work-section {
+    display: flex;
   }
 }
