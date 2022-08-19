@@ -9,8 +9,9 @@
     background: #1c1a19;
   }
 
-  .header {
+  .logo {
     color: white;
+    text-decoration: none;
   }
 
   .top-nav {
@@ -80,5 +81,13 @@
   .background-one {
     display: flex;
     justify-content: end;
+    background-image: url(./Assets/Group.svg);
+    background-repeat: no-repeat;
+    height: 590px;
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size: 313px;
+  }
+  .work-section {
   }
 }
