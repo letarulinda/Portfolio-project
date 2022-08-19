@@ -96,5 +96,36 @@
 
   .work-section {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+  }
+  .work-section h2 {
+    font-family: "Crete Round", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    align-items: center;
+    color: #1C1A19;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  hr {
+    width: 327px;
+    height: 0px;
+    border: 1px solid #212121;
+    margin-left: 170px;
+    margin-bottom: 86px;
+  }
+
+  .image-one {
+    height: 240px;
+  }
+
+  .image-one h2 {
+    display: flex;
   }
 }
