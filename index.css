@@ -87,13 +87,10 @@
     justify-content: end;
     background-image: url(./Assets/Group.svg);
     background-repeat: no-repeat;
-    height: 590px;
-    background-position-x: right;
-    background-position-y: bottom;
-  }
-  .item-one {
-    display: flex;
-    justify-items: top;
-    justify-content: space-between;
+    background-position-x: 90%;
+    background-position-y: 99%;
+    height: 100vh;
+    flex-direction: column;
+    background-size: 139px;
   }
 }
