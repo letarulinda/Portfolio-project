@@ -15,11 +15,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
--Its essential to have a working operating system either Mac OS ,Windows or Linux.
+- Its essential to have a working operating system either Mac OS ,Windows or Linux.
 
 ### Setup
 
--Create a Folder or directory on your local computer in which you would like to copy the project.
+- Create a Folder or directory on your local computer in which you would like to copy the project.
 
 ### Install
 
@@ -28,12 +28,12 @@ Type git clone git@github.com:letarulinda/mobile-vesrion-setup.git and hit enter
 
 ### Usage
 
--You can now view the HTML document in your preferred browser.
+- You can now view the HTML document in your preferred browser.
 
 ## Author Letaru Linda Masia
 
--GitHub: https://github.com/letarulinda
--LinkedIn: www.linkedin.com/in/linda-letaru-masia-7b48a9175
+- GitHub: https://github.com/letarulinda
+- LinkedIn: www.linkedin.com/in/linda-letaru-masia-7b48a9175
 
 ## 🤝 Contributing
 
