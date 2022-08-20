@@ -77,8 +77,7 @@
   .social-links li {
     margin-right: 19px;
     padding-left: 10px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 0;
     justify-content: space-between;
     margin-bottom: 30px;
   }
