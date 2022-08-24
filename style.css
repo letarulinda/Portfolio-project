@@ -1,3 +1,4 @@
+/* Reset Default css values */
 * {
   margin: 0;
   padding: 0;
@@ -12,6 +13,7 @@ body {
   position: relative;
 }
 
+/* Header style */
 .site-header {
   background-color: #3c3a39;
   display: flex;
@@ -366,4 +368,10 @@ body {
   width: 12px;
   height: 12px;
   margin: 0 12px;
+}
+
+/* Pair programing... */
+.contact-section {
+  background: #fff;
+  padding: 7.5em 1.5em 0 1.5em;
 }
