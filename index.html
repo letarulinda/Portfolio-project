@@ -246,16 +246,34 @@
           <form action="https://formspree.io/f/{form_id}" method="post">
             <ul>
               <li>
-                <input type="text" />
+                <input
+                  name="name"
+                  type="text"
+                  id="user_name"
+                  placeholder="Full name"
+                  maxlength="30"
+                />
               </li>
               <li>
-                <input type="text" />
+                <input
+                  name="email"
+                  type="email"
+                  placeholder="Email adress"
+                  pattern="!!!"
+                />
               </li>
               <li>
-                <textarea name="" id="" cols="30" rows="10"></textarea>
+                <textarea
+                  name="user_message"
+                  cols="30"
+                  rows="10"
+                  maxlength="500"
+                  placeholder="Enter text here..."
+                ></textarea>
               </li>
               <li><button type="submit">Get in touch</button></li>
             </ul>
+          </form>
         </footer>
       </section>
     </main>
