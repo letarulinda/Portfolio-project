@@ -389,7 +389,7 @@ input[type="email"] {
 
 input::placeholder,
 textarea::placeholder {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   color: #979493;
   font-size: 0.9375rem;
   font-weight: 400;
@@ -398,7 +398,7 @@ textarea::placeholder {
 
 .contact-section {
   background: #fff;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   padding: 7.5em 1.5em 0 1.5em;
 }
 
@@ -438,4 +438,13 @@ textarea::placeholder {
 
 input:focus {
   outline: none;
+}
+
+.social-links {
+  margin-top: 7.5em;
+  border-top: 1px solid #dfe1e6;
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  width: 70%;
+  margin-inline: auto;
 }
