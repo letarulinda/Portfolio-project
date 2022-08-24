@@ -402,7 +402,7 @@ textarea::placeholder {
   padding: 7.5em 1.5em 0 1.5em;
 }
 
-.contact-section h3 {
+.contact-section-heading {
   font-size: 2rem;
   font-weight: 700;
   line-height: 44px;
@@ -441,10 +441,28 @@ input:focus {
 }
 
 .social-links {
+  border-top: 2px solid #dfe1e6;
+  padding-top: 0.9375em;
   margin-top: 7.5em;
-  border-top: 1px solid #dfe1e6;
-  display: grid;
-  grid-template-columns: repeat(5, auto);
-  width: 70%;
+}
+
+.social-links-list {
+  display: flex;
+  justify-content: space-evenly;
+  width: 65%;
   margin-inline: auto;
+}
+
+.social-link-item {
+  text-align: center;
+}
+
+.separator {
+  height: 5px;
+  width: 35%;
+  background-color: #091e42;
+  border-radius: 5px;
+  margin-inline: auto;
+  margin-top: 1.3125em;
+  margin-bottom: 0.5em;
 }
