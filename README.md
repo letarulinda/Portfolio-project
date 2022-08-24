@@ -49,4 +49,4 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
