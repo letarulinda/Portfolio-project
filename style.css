@@ -1,3 +1,4 @@
+/* Reset Default css values */
 * {
   margin: 0;
   padding: 0;
@@ -12,6 +13,11 @@ body {
   position: relative;
 }
 
+li {
+  list-style-type: none;
+}
+
+/* Header style */
 .site-header {
   background-color: #3c3a39;
   display: flex;
@@ -195,6 +201,7 @@ body {
   font-family: "Inter", sans-serif;
   font-weight: 500;
   font-size: 15px;
+  float: left;
   line-height: 20px;
   color: #091e42;
   width: 60px;
@@ -365,4 +372,97 @@ body {
   width: 12px;
   height: 12px;
   margin: 0 12px;
+}
+
+/* Pair programing... */
+input,
+textarea {
+  color: #3c3a39;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+input[type="email"] {
+  margin: 0.5625em auto 1.5em auto;
+}
+
+input::placeholder,
+textarea::placeholder {
+  font-family: "Inter", sans-serif;
+  color: #979493;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.contact-section {
+  background: #fff;
+  font-family: "Inter", sans-serif;
+  padding: 7.5em 1.5em 0 1.5em;
+}
+
+.contact-section-heading {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 44px;
+  color: #172b4d;
+  margin-bottom: 3.625em;
+  text-align: center;
+}
+
+.user-info,
+.input-message {
+  width: 100%;
+}
+
+.user-info {
+  border: none;
+  border-bottom: 1px solid #dbd8d7;
+  padding: 0.9375em 1em;
+}
+
+.input-message {
+  background: #fbf8f7;
+  border: none;
+  padding: 1em 0 0 1em;
+}
+
+.submit-btn-container {
+  text-align: center;
+}
+
+.submit-btn-container button {
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+.social-links {
+  border-top: 2px solid #dfe1e6;
+  padding-top: 0.9375em;
+  margin-top: 7.5em;
+}
+
+.social-links-list {
+  display: flex;
+  justify-content: space-evenly;
+  width: 65%;
+  margin-inline: auto;
+}
+
+.social-link-item {
+  text-align: center;
+}
+
+.separator {
+  height: 5px;
+  width: 35%;
+  background-color: #091e42;
+  border-radius: 5px;
+  margin-inline: auto;
+  margin-top: 1.3125em;
+  margin-bottom: 0.5em;
 }
