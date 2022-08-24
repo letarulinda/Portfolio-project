@@ -32,12 +32,12 @@ Type git clone git@github.com:letarulinda/mobile-vesrion-setup.git and hit enter
 
 ## Authors
 
-**Letaru Linda Masia**
+👤 **Letaru Linda Masia**
 
 - GitHub: https://github.com/letarulinda
 - LinkedIn: www.linkedin.com/in/linda-letaru-masia-7b48a9175
 
-  **Adel Guitoun**
+👤 **Adel Guitoun**
 
 - GitHub: [@adel-gu](https://github.com/adel-gu)
 - Twitter: [@GuitounAdel](https://twitter.com/@GuitounAdel)
