@@ -15,7 +15,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- Its essential to have a working operating system either Mac OS ,Windows or Linux.
+- It's essential to have a working operating system either Mac OS, Windows or Linux.
 
 ### Setup
 
@@ -23,8 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 
-Open your terminal and change your directory to the above created directory
-Type git clone git@github.com:letarulinda/mobile-vesrion-setup.git and hit enter-Navigate to create mobile-version-setup folder and open index.html file
+Open your terminal and change your directory to the above-created directory Type git clone git@github.com:letarulinda/mobile-vesrion-setup.git and hit enter-Navigate to create a mobile-version-setup folder and open the index.html file
 
 ### Usage
 
@@ -49,4 +48,4 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
