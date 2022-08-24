@@ -195,6 +195,7 @@ body {
   font-family: "Inter", sans-serif;
   font-weight: 500;
   font-size: 15px;
+  float: left;
   line-height: 20px;
   color: #091e42;
   width: 60px;
