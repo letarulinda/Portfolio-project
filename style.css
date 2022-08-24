@@ -396,6 +396,11 @@ textarea::placeholder {
   line-height: 24px;
 }
 
+#contact {
+  display: flex;
+  flex-direction: column;
+}
+
 .contact-section {
   background: #fff;
   font-family: "Inter", sans-serif;
