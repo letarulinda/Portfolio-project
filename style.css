@@ -375,3 +375,35 @@ body {
   background: #fff;
   padding: 7.5em 1.5em 0 1.5em;
 }
+
+.contact-section h3 {
+  font-family: "Inter", serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 44px;
+  color: #172b4d;
+  margin-bottom: 3.625em;
+  text-align: center;
+}
+
+.user-info {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #dbd8d7;
+  padding: 0.9375em 1em;
+  color: #3c3a39;
+  font-size: 0.9375em;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+input[type="email"] {
+  margin: 0.5625em auto 1.5em auto;
+}
+
+input::placeholder {
+  color: #979493;
+  font-size: 0.9375em;
+  font-weight: 400;
+  line-height: 24px;
+}
