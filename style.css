@@ -499,14 +499,16 @@
   }
 
   .main-card img {
-    display: block;
-    width: 60%;
-    height: auto;
+    /* display: block; */
+    height: 75%;
   }
-
+ 
   .main-card {
-    flex-direction: row;
-    justify-content: center;
+    /* flex-direction: row;
+    justify-content: center; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 350px;
   }
 
   .main-card-div {
@@ -529,6 +531,7 @@
     width: 100%;
     max-width: 100%;
     padding: 0;
+    margin: 20px 0;
   }
 
   .about-div {
@@ -544,6 +547,7 @@
     background-image: url(images/About-Frame.svg);
     background-repeat: no-repeat;
     background-position: center right;
+    
   }
 
   .about-div p {
@@ -608,6 +612,18 @@
   }
 
   .sub-card-btn {
+    display: none;
+    
+  }
+
+  .sub-card-div{
+    padding-top: 50px;
+  }
+
+  .sub-card:hover .sub-card-btn{
+    display: inline; 
+  }
+  .sub-card:hover .sub-card-div{
     visibility: hidden;
   }
 }
