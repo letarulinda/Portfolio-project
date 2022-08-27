@@ -499,13 +499,10 @@
   }
 
   .main-card img {
-    /* display: block; */
     height: 75%;
   }
- 
+
   .main-card {
-    /* flex-direction: row;
-    justify-content: center; */
     display: grid;
     grid-template-columns: 1fr 1fr;
     height: 350px;
@@ -547,7 +544,6 @@
     background-image: url(images/About-Frame.svg);
     background-repeat: no-repeat;
     background-position: center right;
-    
   }
 
   .about-div p {
@@ -613,17 +609,17 @@
 
   .sub-card-btn {
     display: none;
-    
   }
 
-  .sub-card-div{
+  .sub-card-div {
     padding-top: 50px;
   }
 
-  .sub-card:hover .sub-card-btn{
-    display: inline; 
+  .sub-card:hover .sub-card-btn {
+    display: inline;
   }
-  .sub-card:hover .sub-card-div{
+
+  .sub-card:hover .sub-card-div {
     visibility: hidden;
   }
 }
