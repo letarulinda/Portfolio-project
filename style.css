@@ -659,12 +659,12 @@
     background-image: url(images/sub-card-hover.svg);
     outline: #091e42 2px solid;
     box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1),
-      0 0 0 1px rgb(255, 255, 255), 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+                      0 0 0 1px rgb(255, 255, 255),
+                      0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
   }
 
   .social:hover {
     transform: scale(1.3);
-
     filter: invert(57%) sepia(84%) saturate(4485%) hue-rotate(0deg)
       brightness(103%) contrast(105%);
   }
@@ -672,8 +672,12 @@
   .logo:hover {
     transform: scale(1.1);
 
-    filter: invert(57%) sepia(84%) saturate(4485%) hue-rotate(0deg)
-      brightness(103%) contrast(105%);
+    filter: invert(57%)
+            sepia(84%)
+            saturate(4485%)
+            hue-rotate(0deg)
+            brightness(103%) 
+            contrast(105%);
   }
 
   .navbar-icon {
