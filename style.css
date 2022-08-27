@@ -437,15 +437,6 @@
   background: #dfe1e6;
 }
 
-.submit-footer-icon img {
-  filter: invert(34%)
-          sepia(17%)
-          saturate(768%)
-          hue-rotate(179deg)
-          brightness(99%)
-          contrast(90%);
-}
-
 .submit-form {
   display: flex;
   flex-direction: column;
