@@ -438,8 +438,12 @@
 }
 
 .submit-footer-icon img {
-  filter: invert(34%) sepia(17%) saturate(768%) hue-rotate(179deg)
-    brightness(99%) contrast(90%);
+  filter: invert(34%)
+          sepia(17%)
+          saturate(768%)
+          hue-rotate(179deg)
+          brightness(99%)
+          contrast(90%);
 }
 
 .submit-form {
@@ -659,8 +663,8 @@
     background-image: url(images/sub-card-hover.svg);
     outline: #091e42 2px solid;
     box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1),
-                      0 0 0 1px rgb(255, 255, 255),
-                      0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+           0 0 0 1px rgb(255, 255, 255),
+           0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
   }
 
   .social:hover {
@@ -671,9 +675,8 @@
 
   .logo:hover {
     transform: scale(1.1);
-
     filter: invert(57%)
-            sepia(84%)
+             sepia(84%) 
             saturate(4485%)
             hue-rotate(0deg)
             brightness(103%) 
