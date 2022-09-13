@@ -47,7 +47,7 @@ body {
 }
 
 .nav-list{
-  display: none;
+  display:none;
   flex-direction: column;
   list-style-type: none;
   width: 100vw;
@@ -60,7 +60,7 @@ body {
   padding: 90px 50px;
 }
 
-active {
+.active {
   display: flex;
 }
 
@@ -107,6 +107,10 @@ transform: rotateZ(-405deg) translate(-8px,6px);
   }
 .change .line-3 {
   transform: rotateZ(405deg) translate(-8px,-6px);
+  }
+
+  .active{
+    display: block;
   }
   
 .container {
