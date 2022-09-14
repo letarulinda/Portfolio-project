@@ -21,21 +21,6 @@ body {
   background-color: #3c3a39;
 }
 
-/* .navbar {
-  background-color: #3c3a39;
-  align-items: center;
-  justify-content: space-between;
-  display: flex;
-  padding: 10px 36px 10px 27px;
-  top: 0;
-  right: -360px;
-  background-color: #3c3a39;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 36px 10px 27px;
-} */
-
 .nav-link{
   text-decoration: none;
   font-family: sans-serif;
@@ -82,6 +67,7 @@ body {
   height: 26px;
   width: 26px;
 }
+
 .nav-menu{
   width: 35px;
   height: 30px;
