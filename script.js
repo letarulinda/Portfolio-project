@@ -7,7 +7,12 @@ function show() {
   firstMainPage.style.display = 'none';
   hamburgerPage.style.display = 'block';
 }
-// add here
+
+function close() {
+  firstMainPage.style.display = 'block';
+  hamburgerPage.style.display = 'none';
+}
+
 makeMenuDisappear.addEventListener('click', show);
 hambClose.addEventListener('click', close);
 otherClose.addEventListener('click', close);
