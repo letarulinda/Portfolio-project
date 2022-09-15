@@ -9,6 +9,9 @@
 - HTML
 - CSS
 
+## Live Link
+https://letarulinda.github.io/Portfolio-project/
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -49,3 +52,6 @@ Contributions, issues, and feature requests are welcome!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+
+
