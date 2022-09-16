@@ -35,7 +35,7 @@
   font-size: 1.3rem;
   line-height: 38px;
   overflow: hidden;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .modal-header > h2 {
@@ -48,11 +48,11 @@
   display: flex;
   flex-flow: row nowrap;
   margin-bottom: 2.5vh;
-  color: #3C3A39;
+  color: #3c3a39;
 }
 
 .modal-list > li {
-  border: 1px solid #3C3A39;
+  border: 1px solid #3c3a39;
   margin-left: 1vh;
   padding: 1vh;
   overflow: hidden;
