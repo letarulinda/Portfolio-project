@@ -387,7 +387,19 @@ footer .icon ul {
   padding: 7px;
 }
 
-.project-btn{}
+.project-btn{
+  font-family: "Inter", serif;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #030303;
+  background: #ff6b00;
+  margin-top: 15px;
+  padding: 7px;
+}
+
 .about {
   background-color: #1c1a19;
   background-image: url("./images/bgimgabt.png");
