@@ -306,7 +306,7 @@ footer .icon ul {
   font-size: 17px;
   line-height: 24px;
   letter-spacing: 0.03em;
-  color: #030303;
+  color: #fff;
   margin: 10px 0;
   padding: 12px;
   display: inline-block;
@@ -381,10 +381,10 @@ footer .icon ul {
   line-height: 24px;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #030303;
   background: #ff6b00;
   margin-top: 15px;
   padding: 7px;
+  color: #fff;
 }
 
 .project-btn{
@@ -398,6 +398,8 @@ footer .icon ul {
   background: #ff6b00;
   margin-top: 15px;
   padding: 7px;
+  border: none;
+  color: #fff;
 }
 
 .about {
