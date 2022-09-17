@@ -9,8 +9,8 @@ function show() {
 }
 
 function close() {
-  firstMainPage.style.display = 'block';
-  hamburgerPage.style.display = 'none';
+  firstMainPage.style.display = 'block'
+  hamburgerPage.style.display = 'none
 }
 
 makeMenuDisappear.addEventListener('click', show);
